@@ -1,2 +1,2 @@
 # Digital-Clock
-A digital clock build with Javascrpt
+A digital clock build with Javascript
